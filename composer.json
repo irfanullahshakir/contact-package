@@ -1,0 +1,19 @@
+{
+    "name": "irfanullahshakir/contact",
+    "description": "This is a sample laravel package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "irfanullahshakir",
+            "email": "irfanullahshakir@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "irfanullahshakir\\Contact\\": "src/"
+        }
+    }
+}
